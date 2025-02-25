@@ -16,21 +16,6 @@ You will need to install [Poetry](https://python-poetry.org/) first to install t
 poetry install
 ```
 
-## Demo
-
-<details align="start">
-  <summary>Click to view</summary>
-
-<img src="../out/collated.png" />
-
-</details>
-
 ## Contributors
 
 Samuel Bonghanoy & Christian de Jesus
-
-[1]: https://github.com/sethonne/PLOTS/blob/main/src/main.ipynb
-[2]: https://github.com/sethonne/PLOTS/tree/main/out
-[3]: https://github.com/sethonne/PLOTS/blob/main/out/collated.png
-[4]: https://github.com/sethonne/PLOTS/blob/main/out/collated.pdf
-[5]: https://github.com/sethonne/PLOTS
